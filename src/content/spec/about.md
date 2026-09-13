@@ -1,7 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好，我是一天一夜。
+
+这里记录我的编程学习、生活感悟和个人项目。
+
+## 我的兴趣
+
+- 编程
+- 阅读
+- 摄影
+- 旅行
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
