@@ -1,18 +1,31 @@
 # About
-# 关于我
-
-你好，我是一天一夜。
+[关于我]
+这里是一天一夜。
 
 这里记录我的编程学习、生活感悟和个人项目。
 
-## 我的兴趣
 
-- 编程
-- 阅读
-- 摄影
-- 旅行
+[我的兴趣]
+```{1}
+- 听术曲 - 阅读 - 旅行 -胡思乱想
+```
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+可能有点吓到你了，但请不要紧张，当作享乐吧好吗。
+
+这里请允许我写一下我这个网页上传的步骤
+
+```"cd"
+先cdfuwai位置，接着
+
+```
+---
+
+```powershell title="终端示范"
+
+git add .
+git commit -m ”我写的新增博客文章名字”
+git push
+
+```
+
+

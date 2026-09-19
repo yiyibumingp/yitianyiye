@@ -14,7 +14,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 
 ```yaml
 ---
-这是一段我写的文字，准确来说，试试水，
+这是一段我写的文字，准确来说，试试水，是使用指南来的
 --- 
 ```
 
