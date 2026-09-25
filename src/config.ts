@@ -8,15 +8,15 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "温小姐最近如何",
-	subtitle: "咳咳男的",
+	title: "天物语",
+	subtitle: "意义不明的存在",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
-		enable: false,
+		enable: true,
 		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/person-haha.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/微信图片_2026-09-25_143149_555.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "一天一夜",
 	bio: "博客，代码，文章，留白，一切。",
 	links: [
