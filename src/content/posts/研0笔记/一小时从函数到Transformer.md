@@ -1,5 +1,5 @@
 ---
-title: 一小时从函数到Transformer！
+title: 深度学习嘿嘿
 published: 2026-09-27
 description: 整理自 B 站笔记：从函数逼近与神经网络讲起，经过损失函数、梯度下降、反向传播，再到 CNN、词嵌入、RNN，最后抵达 Transformer 的注意力机制。31 张配图 + 视频嵌入。
 tags:
@@ -7,7 +7,6 @@ tags:
   - 神经网络
   - Transformer
   - 深度学习
-  - B站笔记
 category: 研0笔记
 draft: false
 ---
@@ -39,10 +38,7 @@ draft: false
 
 下面是官方嵌入播放器（默认从 P1 开始，播放器内可切换分 P；嵌入代码的写法见文末附录）：
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NCgVzoEG9&p=1&autoplay=0&danmaku=0"
-        width="100%" height="468"
-        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-        loading="lazy"></iframe>
+<iframe  width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=114890442280099&bvid=BV1NCgVzoEG9&cid=31183339916&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 一、从函数到神经网络
 
