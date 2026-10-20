@@ -1,9 +1,9 @@
 ---
 title: 深度学习在ECG心血管疾病诊断中的系统综述核心知识点
-published: 2026-10-20
 description: 系统梳理深度学习在心电图（ECG）分析中的模型架构、信号处理、统计评估及临床落地核心概念。
+published: 2026-10-20
 tags: [深度学习, 心电图, 医学AI, 文献阅读, 系统综述]
-category: 研0笔记
+category: paper笔记
 draft: false
 ---
 
@@ -32,7 +32,6 @@ draft: false
 #### 1.1 标度图 / 尺度图 (Scalogram)
 - **原理**：连续小波变换 (CWT) 的二维可视化结果。横轴为时间，纵轴为频率/尺度，颜色代表能量强度。
 - **作用**：将 1D 时间序列转换为 2D 热力图，从而可以直接“借用”计算机视觉领域强大的 2D CNN（如 AlexNet, ResNet）进行图像分类。
-- **配图占位**：![ecg-scalogram-visualization](./photo/ecg-scalogram-visualization.png)
   *图注：正常心律与房颤心律的标度图对比，展示时频能量分布的差异。*
 
 #### 1.2 递归图 / 重现图 (Recurrence Plot, RP)
