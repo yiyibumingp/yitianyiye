@@ -3,7 +3,7 @@ title: 初衷
 published: 2026-09-13
 description: "你好，研0选手"
 image: "./codex.jpg"   
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: [博客搭建, Fuwari]
 category: Guides
 draft: false
 ---

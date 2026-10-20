@@ -3,13 +3,7 @@ title: ECG 心电图伪影去除：从信号处理视角的系统笔记
 published: 2026-09-25
 description: 什么是伪影（artifact）？
 image: "./photo/2.webp"
-tags:
-  - ECG
-  - 信号处理
-  - 伪影去除
-  - 数字滤波
-  - ICA
-  - 深度学习
+tags: [信号处理, 心电图, 数字滤波, 伪影去除]
 category: 信号处理
 draft: false
 ---

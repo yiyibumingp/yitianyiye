@@ -4,7 +4,7 @@ published: 2026-10-20
 updated: 2026-10-20
 description: 结合两篇 ECG 深度学习综述，梳理信号处理、少导联与轻量化、诊断统计、外部验证，以及从入门阅读走向研究选题的方法。
 image: "./photo/93987f5d19f6c6081090f8580e8500a9626510519.jpg"
-tags: [深度学习, 心电图, 医学AI, 论文精读, 系统综述, 轻量化]
+tags: [深度学习, 心电图, 论文精读]
 category: paper笔记
 draft: false
 ---
