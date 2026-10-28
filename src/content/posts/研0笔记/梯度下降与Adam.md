@@ -2,7 +2,7 @@
 title: 从梯度下降到 Adam：一步步理解优化器
 published: 2026-10-28
 description: 从损失函数和梯度下降出发，理解学习率、动量、RMSprop 与 Adam 的更新逻辑。
-image: "./photo/gradient-descent-path.png"
+image: "./photo/girl.jpg"
 tags: [深度学习, 梯度下降, 优化器]
 category: 研0笔记
 draft: false
