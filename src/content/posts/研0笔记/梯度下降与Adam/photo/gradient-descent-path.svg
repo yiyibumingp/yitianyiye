@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" fill="#f7f8fa"/>
+  <text x="60" y="62" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202b35">Gradient descent follows the local downhill direction</text>
+  <text x="60" y="99" font-family="Arial,sans-serif" font-size="18" fill="#596772">Illustrative loss surface: parameter position → loss height</text>
+  <g transform="translate(80 140)">
+    <path d="M70 400 C210 310 250 130 430 90 C600 50 620 260 790 320 C900 360 950 385 1030 395" fill="none" stroke="#d6dfe5" stroke-width="5"/>
+    <path d="M70 430 C210 340 260 160 430 120 C600 80 650 280 790 350 C910 410 970 420 1030 425" fill="none" stroke="#d6dfe5" stroke-width="3"/>
+    <path d="M130 370 C240 315 280 190 430 150 C570 115 630 290 780 365 C870 410 960 435 1030 445" fill="none" stroke="#b7c5ce" stroke-width="3"/>
+    <path d="M190 330 C285 285 330 215 435 190 C560 160 620 300 770 375 C850 420 945 455 1030 470" fill="none" stroke="#8fa4b0" stroke-width="3"/>
+    <path d="M250 285 C330 260 370 235 445 225 C555 210 620 320 760 390 C845 435 940 475 1030 490" fill="none" stroke="#65808f" stroke-width="3"/>
+    <path d="M300 245 C370 235 400 250 455 260 C555 280 630 350 750 410 C835 450 930 495 1030 510" fill="none" stroke="#286f78" stroke-width="4"/>
+    <path d="M230 190 C340 170 420 215 500 270 C590 332 625 375 700 405 C775 434 840 455 905 478" fill="none" stroke="#e26d5a" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#fff" stroke="#e26d5a" stroke-width="5">
+      <circle cx="230" cy="190" r="10"/><circle cx="500" cy="270" r="10"/><circle cx="625" cy="375" r="10"/><circle cx="775" cy="434" r="10"/><circle cx="905" cy="478" r="10"/>
+    </g>
+    <path d="M488 258 l28 14 -24 17" fill="#e26d5a"/>
+    <path d="M614 360 l25 18 -26 15" fill="#e26d5a"/>
+    <text x="198" y="160" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#bd4f42">start</text>
+    <text x="920" y="493" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#24616a">lower loss</text>
+    <path d="M70 535 H1030" stroke="#263640" stroke-width="3"/>
+    <path d="M70 535 V55" stroke="#263640" stroke-width="3"/>
+    <text x="500" y="585" font-family="Arial,sans-serif" font-size="21" fill="#263640">parameter direction</text>
+    <text x="12" y="50" font-family="Arial,sans-serif" font-size="21" fill="#263640">loss</text>
+  </g>
+</svg>
